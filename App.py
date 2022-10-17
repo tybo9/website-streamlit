@@ -93,3 +93,11 @@ with st.container():
         ##st.markdown(contact_form, unsafe_allow_html=True)
     ##with right_column:
        st.empty()
+       
+    hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
