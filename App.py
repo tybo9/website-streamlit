@@ -39,10 +39,10 @@ img_lottie_animation = Image.open("images/imag3.png")
 
 # ---- Header Section ----
 with st.container():
-     st.subheader("Hi, I am Ayoub :wave:")
+     st.subheader("Hello, I am Ayoub :wave:")
      st.title("A Computer Sciencitst")
      st.write("""I am a recent graduate earning a Bachelor's degree in Computer Science from San Diego State University. I am passionate about data science and machine learning. 
-                 I am currently working on my portfolio and looking for opportunities to work on data science projects. I am also interested in working on projects that involve web development and mobile development. 
+                 I am also interested in working on projects that involve web development and mobile development. 
                  The best way to reach me is through contact form below. I look forward to hearing from you!""")
 # ---- What I Do ---
 with st.container():
@@ -52,7 +52,8 @@ with st.container():
         st.header("What I do")
         st.write("##")
         st.write (
-            """Building video games using Unity and C#."""  
+            """I like working on projects that involve data science, machine learning, web development, and mobile development. Complex problems that require creative solutions are my favorite.
+                 Besides that, I also like to play soccer, travel, hangout with friends, and play video games. I am also a big fan of soccer team like Real Madrid."""  
                  )
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
