@@ -92,6 +92,6 @@ with st.container():
         st.subheader("Contact Form")
         st.write(contact_form, unsafe_allow_html=True)
     with right_column:
-        st.markdown(contact_form, unsafe_allow_html=True)
-    with right_column:
-        st.empty()
+        ##st.markdown(contact_form, unsafe_allow_html=True)
+    ##with right_column:
+       st.empty()
