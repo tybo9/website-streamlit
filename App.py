@@ -70,10 +70,8 @@ with st.container():
         # insert image
         st.image(img_lottie_animation)
 with text_column:
-    st.subheader("Working on it loading...")
-    st.write("""
-    I used Lottie files in Streamlit! 
-    Animations make the web app more engaging and fun, and Lottie files are the easiest way to do""")
+    st.subheader("coming soon")
+    st.write("""I am working on the self project to build a web app. This is just running on local device, and soon will be publish to public""")
 # ---- Contact Form ---
 with st.container():
     st.write("---")
