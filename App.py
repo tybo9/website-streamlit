@@ -39,9 +39,9 @@ img_lottie_animation = Image.open("images/imag2.png")
 
 # ---- Header Section ----
 with st.container():
-     st.subheader("Hi, I am A :wave:")
+     st.subheader("Hi, I am Ayoub :wave:")
      st.title("A Computer Science major")
-     st.write("I am passionate about finding ways to use Python and VBA to be more efficient and effective in business settings ")
+     st.write("I am passionate about finding ways to use Python and effective in business settings ")
 
 # ---- What I Do ---
 with st.container():
@@ -51,10 +51,9 @@ with st.container():
         st.header("What I do")
         st.write("##")
         st.write (
-            """I am working on the self project to build a web app. check out my [GitHub](url): for more information. 
+            """I am working on the self project to build a web app. This is just running on local device, and soon will be publish to public 
+                check out my [GitHub](url): for more information. 
                some of my projects are listed below:"""  
-            
-
                  )
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
