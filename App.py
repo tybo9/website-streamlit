@@ -43,7 +43,7 @@ with st.container():
      st.title("A Computer Sciencitst")
      st.write("""I am a recent graduate earning a Bachelor's degree in Computer Science from San Diego State University. I am self-motivated, hardworking, and passionate about learning new technlogies. 
                  I am also interested in working on projects that involve web development and mobile development. 
-                 The best way to reach me is through contact form below. I look forward to hearing from you!""")
+                 The best way to reach me is through contact form below. I look forward to hearing from you.""")
 # ---- What I Do ---
 with st.container():
     st.write("---")
