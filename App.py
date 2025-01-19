@@ -41,9 +41,10 @@ img_lottie_animation = Image.open("images/imag3.png")
 with st.container():
      st.subheader("Hello, I am Ayoub :wave:")
      st.title("A Computer Scientist :computer:")
-     st.write("""I am a recent graduate earning a Bachelor's degree in Computer Science from San Diego State University. I am self-motivated, hardworking, and passionate about learning new technlogies. 
-                 I am also interested in working on projects that involve web development and mobile development. 
-                 The best way to reach me is through contact form below. I look forward to hearing from you.""")
+     st.write("""I am a Software Engineer at RTX, a leading aerospace and defense company, where I work on developing innovative and secure solutions for complex challenges. 
+                I have been in this role since February 2023, after completing a two-month Business Analyst Internship at Accenture, a global consulting firm.
+                I am also a Research Fellow at Howard University, where I have been working on a web development project for the 4DVD initiative, a platform that aims to increase diversity, equity, and inclusion in STEM fields. 
+                I have been involved in this project since August 2021, and I have contributed to the design, implementation, and testing of the web application using C#, Linux, and JavaScript.""")
 # ---- What I Do ---
 with st.container():
     st.write("---")
