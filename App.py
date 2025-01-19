@@ -39,7 +39,7 @@ img_lottie_animation = Image.open("images/imag3.png")
 
 # ---- Header Section ----
 with st.container():
-     st.subheader("Hello, my name is Ayoub :wave:")
+     st.subheader("Hello, my name is Ayoub :wave: ")
      st.title("A Computer Scientist :computer:")
      st.write("""I am a Software Engineer at RTX, a leading aerospace and defense company, where I work on developing innovative and secure solutions for complex challenges. 
                  I have been in this role since February 2023, after completing a two-month Business Analyst Internship at Accenture, a global consulting firm.
