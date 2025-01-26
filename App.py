@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import json
 from threading import local
 from PIL import Image
