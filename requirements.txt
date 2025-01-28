@@ -5,3 +5,4 @@ Pillow==8.4.0
 protobuf~=3.19.0
 watchdog==2.1.8
 pyarrow
+altair.vegalite.v4
