@@ -56,7 +56,7 @@ with st.container():
         st.write("##")
         st.write (
             """I like working on projects that involve data science, machine learning, web development, and mobile development. Complex problems that require creative solutions are my favorite.
-                 Besides that, I also like to play soccer, travel, hangout with friends, workout and snowboarding. I am also a big fan of soccer team like Real Madrid."""  
+                 Besides that, I also like to play soccer, travel, hangout with friends, workout and snowboarding."""  
                  )
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
