@@ -37,7 +37,7 @@ local_css("style/style.css")
 lottie_coding = load_lottieurl("https://assets4.lottiefiles.com/packages/lf20_es4p9zph.json")
 #img_contact_form = Image.open("images/imag1.png")
 #img_contact_form = Image.open("images/imag2.png")
-img_lottie_animation = Image.open("images/imag3.png")
+img_lottie_animation = Image.open("images/image4.jfif")
 
 # ---- Header Section ----
 with st.container():
