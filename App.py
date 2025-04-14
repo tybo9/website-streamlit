@@ -71,8 +71,8 @@ with st.container():
         # insert image
         st.image(img_lottie_animation)
 with text_column:
-    st.subheader("coming soon")
-    st.write("""I am working on the self project to build a web app. This is just running on local device, and soon will be publish to public""")
+    st.subheader("")
+    st.write("""""")
 # ---- Contact Form ---
 with st.container():
     st.write("---")
