@@ -43,10 +43,10 @@ img_lottie_animation = Image.open("images/image4.jfif")
 with st.container():
      st.subheader("Hello, my name is Ayoub :wave: ")
      st.title("A Computer Scientist :computer:")
-     st.write("""I am a Software Engineer at RTX, a leading aerospace and defense company, where I work on developing innovative and secure solutions for complex challenges. 
-                 I have been in this role since February 2023, after completing a two-month Business Analyst Internship at Accenture, a global consulting firm.
-                 I am also a Research Fellow at Howard University, where I have been working on a web development project for the 4DVD initiative, a platform that aims to increase diversity, equity, and inclusion in STEM fields. 
-                 I have been involved in this project since August 2021, and I have contributed to the design, implementation, and testing of the web application using C#, Linux, and JavaScript.""")
+     st.write("""I am a Software Engineer at RTX, where I design and develop secure, high-performance software solutions that address complex mission-critical challenges. Since joining in 2023, I’ve contributed to the advancement of scalable systems within a fast-paced, collaborative engineering environment.
+                 Prior to RTX, I completed a Software Engineering Internship at Accenture, where I gained experience in data-driven decision-making and cross-functional project management within a leading consulting framework.
+                 In parallel, I serve as a Software Engineering at NOAA, supporting the 4DVD initiative—a web-based platform focused on promoting diversity, equity, and inclusion in STEM. Since August 2021, I’ve played a key role in the design, development, and testing of this platform using technologies such as Python, C#, Linux, and JavaScript.
+                 With experience spanning industry, consulting, and research, I bring a well-rounded, results-driven approach to software engineering and problem solving.""")
 # ---- What I Do ---
 with st.container():
     st.write("---")
@@ -73,6 +73,8 @@ with st.container():
 with text_column:
     st.subheader("")
     st.write("""""")
+    st.markdown('<a href="https://github.com/tybo9" target="_blank">Click here to visit GitHub</a>', unsafe_allow_html=True)
+    st.markdown('<a href="https://4dvd.sdsu.edu/" target="_blank">Click here to visit 4DVD</a>', unsafe_allow_html=True)
 # ---- Contact Form ---
 with st.container():
     st.write("---")
