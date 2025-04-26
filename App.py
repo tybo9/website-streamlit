@@ -75,6 +75,7 @@ with text_column:
     st.write("""""")
     st.markdown('<a href="https://github.com/tybo9" target="_blank">Click here to visit GitHub</a>', unsafe_allow_html=True)
     st.markdown('<a href="https://4dvd.sdsu.edu/" target="_blank">Click here to visit 4DVD</a>', unsafe_allow_html=True)
+    st.markdown('<a href="https://www.linkedin.com/in/ayoubrammo/" target="_blank">Click here to visit LinkedIn</a>', unsafe_allow_html=True)
 # ---- Contact Form ---
 with st.container():
     st.write("---")
